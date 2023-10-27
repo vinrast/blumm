@@ -1,0 +1,2 @@
+# blumm
+Blog personal
